@@ -1,0 +1,5 @@
+Username:- erarpitout
+Password:- p9JT9z6IJnubT70d
+
+// When connecting to databae, there always be a chance of connection failure. So, we will use try-catch block to handle this situation.
+// Database is always on a different continent. so always use async-await
